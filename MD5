@@ -1,0 +1,11 @@
+3acde944d8297ab15a980d52e610e68b *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+b77375aa43f5bc1b1f749fb4565109eb *R/portfoliodiversificationR.R
+6a425c796911f16a850e69a5f0bda093 *data/data_efficient_portfolios_returns.rda
+abba56185c431da6d54fcc18f63cc821 *man/data_efficient_portfolios_returns.Rd
+f1b7ffc342054909b68699b3e66e026b *man/f_RSRL.Rd
+19848823edc4abc457b1b40fd6251438 *man/f_SR.Rd
+f2738114edf2cc4565fecf6caff4477e *man/f_VaR.Rd
+3c6887b1df44b593611a5584288dafa6 *man/f_circular_bloc_bootstrap.Rd
+af8feb122dfde4d5ab4cda3b6346ca3c *man/f_diversification_measurement.Rd
+48ddcefd1f93faebdeae02cb892c150d *man/f_test_RSRL.Rd
